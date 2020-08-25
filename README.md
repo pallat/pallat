@@ -1,16 +1,36 @@
-### Hi there 👋
+ # Hello, I'm Pallat!👋
 
-<!--
-**pallat/pallat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 Thailand
+- 𝗜 ❤️ Go 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
-Here are some ideas to get you started:
+```golang
+type aboutMe struct {
+  pronouns   []string
+  languages  []string
+  hobbies    []string
+  funFact    string
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+func main() {
+  pallat := aboutMe {
+    pronouns: ["He", "Him"],
+    languages: ["Go", "Go", "Go", "JavaScript"],
+    hobbies: ["Reading", "Watching", "Coding"],
+    funFact: "The Sunrise is in the East",
+  }
+  
+  fmt.Printf("Pronouns: %v\n", pallat.pronouns)
+  fmt.Printf("Languages I Know: %v\n", pallat.languages)
+  fmt.Printf("My Hobbies: %v\n", pallat.hobbies)
+  fmt.Printf("Fun Fact: %s\n", pallat.funFact)
+}
+```
+
+## my contributions
+
+- https://github.com/pallat/uber-go-style-guide-th
+- https://go-tour-th.appspot.com/
+
+## my article
+
+- https://medium.com/@yod.pallat
