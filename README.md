@@ -3,6 +3,8 @@
 - 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 Thailand
 - 𝗜 ❤️ Go 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallat)](https://github.com/pallat/pallat)
+
 ```golang
 type aboutMe struct {
   pronouns   []string
