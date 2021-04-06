@@ -35,4 +35,4 @@ func main() {
 
 ## my article
 
-- https://medium.com/@yod.pallat
+- https://medium.com/@pallat
