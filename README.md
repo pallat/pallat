@@ -32,7 +32,9 @@ func main() {
 
 - https://github.com/pallat/uber-go-style-guide-th
 - https://go-tour-th.appspot.com/
+- https://tourofrust.com
 
 ## my article
 
 - https://medium.com/@pallat
+- https://dev.to/pallat
